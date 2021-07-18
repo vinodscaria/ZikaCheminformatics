@@ -17,3 +17,6 @@ https://pubchem.ncbi.nlm.nih.gov/bioassay/1347157
 
 
 https://pubchem.ncbi.nlm.nih.gov/bioassay/1347161
+
+
+Kindly refer to the Wiki for details.
