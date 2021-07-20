@@ -1,4 +1,4 @@
-Table 1: We selected all the attributes/descriptors that Weka used to create a table from the SDF file. This generated a total of 6145 columns in each file, the header of which is shown in table1.		
+Table 1: We selected all the attributes/descriptors that PowerMV used to create a table from the SDF file. This generated a total of 6145 columns in each file, the header of which is shown in table1.		
 		
 		
 Both aid-s:		
