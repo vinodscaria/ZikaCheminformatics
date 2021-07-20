@@ -7,6 +7,9 @@ This repository describes the use of Weka to identify molecules that could be us
 
 Links:
 
+PowerMV: https://www.niss.org/research/software/powermv
+
+
 Weka - https://github.com/Waikato/weka-3.8
 
 
