@@ -1,0 +1,20 @@
+DB_ID,COMMON_NAME,SYNONYMS,PREVIOUSLY_STUDIED
+DB00307,Bexarotene,"4-[1-(3,5,5,8,8-pentamethyltetralin-2-yl)ethenyl]benzoic acid; 4-[1-(5,6,7,8,-Tetrahydro-3,5,5,8,8-pentamethyl-2-naphtalenyl)ethenyl]benzoic acid; Bexaroten; Bexarotène; Bexarotene; Bexaroteno; Bexarotenum; p-(1-(5,6,7,8-Tetrahydro-3,5,5,8,8-pentamethyl-2-naphthyl)vinyl)benzoic acid",
+DB00795,Sulfasalazine,2-Hydroxy-5-((4-((2-pyridinylamino)sulfonyl)phenyl)azo)benzoic acid; 2-Hydroxy-5-[4-(pyridin-2-ylsulfamoyl)-phenylazo]-benzoic acid; 4-(Pyridyl-2-amidosulfonyl)-3'-carboxy-4'-hydroxyazobenzene; 5-((p-(2-Pyridylsulfamoyl)phenyl)azo)salicylic acid; 5-(4-(2-Pyridylsulfamoyl)phenylazo)-2-hydroxybenzoic acid; 5-(p-(2-Pyridylsulfamyl)phenylazo)salicylic acid; Azopyrin; Salazosulfapiridina; Salazosulfapyridine; Salazosulfapyridinum; Salicylazosulfapyridine; Sulfasalazin; Sulfasalazina; Sulfasalazine; Sulfasalazinum,
+DB02877,Arotinoid acid,"(E)-4-(2-(5,6,7,8-Tetrahydro-5,5,8,8-tetramethyl-2-naphthalenyl)-1-propen-1-yl)benzoic acid; Arotinoic acid; Arotinoid acid; TTNPB",
+DB04786,Suramin,Suramin; Suramine,Yes
+DB05197,Sofalcone,,
+DB06346,Fiboflapon,,
+DB11263,Polydatin,"3,4,5-Trihydroxystilbene-3-beta-monoglucoside; 3,4',5-trihydroxystilbene-3-β-d-glucoside; Piceid; Polydatin (E)-isomer; Resveratrol 3-O-beta-glucopyranoside; resveratrol-3-O-b-mono-D-glucoside; trans-piceid; trans-resveratrol 3-O-β-D-glucoside; trans-resveratrol 3-β-D-glucoside; trans-resveratrol 3-β-glucoside",Yes
+DB11365,Sennosides,Senna glycosides; Sennoside; Sennosides,
+DB11423,Lasalocid,,
+DB11806,VTP-194204,,
+DB12052,Icariin,,
+DB12116,Epigallocatechin gallate,EGCG; Epigallocatechin gallate,Yes
+DB13016,LY-2300559,,
+DB13751,Glycyrrhizic acid,18-beta-Glycyrrhizic acid; Glizigen; Glycyrrhizin,Yes
+DB14037,Madecassic acid,6β-hydroxyasiatic acid; Brahmic acid,Yes
+DB14097,13-cis-12-(3'-Carboxyphenyl)retinoic acid,,
+DB15774,beta-Escin,Aescin B | beta-Aescin | beta-Escin,Yes
+DB15907,Escin,Aescin,Yes
+DB16120,Epigallo Catechin Gallate,"(+)-catechin 3-gallate; (+)-catechin gallate; Catechin Gallate; Catechin gallate, (+)-",
